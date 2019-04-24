@@ -2,15 +2,18 @@
 
 ## Portainer ##
 
-Manage your Docker environments with ease
+_Manage your Docker environments with ease_.
+
 https://portainer.io/
 
 ## Dive ##
 
-A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+_A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size._
+
 https://github.com/wagoodman/dive/blob/master/README.md
 
 ## ctop ##
 
-concise commandline monitoring for containers
+_Concise commandline monitoring for containers_
+
 https://ctop.sh/
