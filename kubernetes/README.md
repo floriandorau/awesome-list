@@ -1,9 +1,9 @@
 # Kubernetes #
 
-## Learn K8S ##
+## Kubeless.io ##
 
-https://learnk8s.io/blog/kubectl-productivity/
+<https://kubeless.io/>
 
-## Learn K8S ##
+## Interesting links/articles regarding K8s ##
 
-https://kubeless.io/
+- Learn K8S: <https://learnk8s.io/blog/kubectl-productivity/>

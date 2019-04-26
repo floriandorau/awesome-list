@@ -17,7 +17,7 @@ List of links/tools/news etc. which should kept in mind.
 
 ## Further awesome lists ##
 
-- https://github.com/sorrycc/awesome-javascript
-- https://github.com/sindresorhus/awesome-nodejs
-- https://github.com/babel/awesome-babel
-- https://github.com/jaywcjlove/awesome-mac
+- <https://github.com/sorrycc/awesome-javascript>
+- <https://github.com/sindresorhus/awesome-nodejs>
+- <https://github.com/babel/awesome-babel>
+- <https://github.com/jaywcjlove/awesome-mac>

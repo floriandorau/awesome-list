@@ -2,18 +2,18 @@
 
 ## HTTP Bin ##
 
-_A simple HTTP Request & Response Service._
+_A simple HTTP Request & Response Service_.
 
-https://httpbin.org/
+<https://httpbin.org/>
 
 ## HTTP Status ##
 
-_Easy to reference database of HTTP Status Codes with their definitions._
+_Easy to reference database of HTTP Status Codes with their definitions_.
 
-https://httpstatuses.com/
+<https://httpstatuses.com/>
 
 ## htaccess ##
 
-_To test your htaccess rewrite rules._
+_To test your htaccess rewrite rules_.
 
-https://htaccess.madewithlove.be/
+<https://htaccess.madewithlove.be/>
