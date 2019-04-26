@@ -10,15 +10,20 @@
 Build container images for your Java applications.
 https://github.com/GoogleContainerTools/jib
 
-Java runtime metadata analysis
+## Reflections ##
+
+_Java runtime metadata analysis._
+
 https://github.com/ronmamo/reflections
 
-### Hibernate ###
+## Hibernate ##
 
-Auditing with Envers
+_Auditing with Envers._
+
 http://hibernate.org/orm/envers/
 
-### Micronaut ###
+## Micronaut ##
 
-A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
+_A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications._
+
 http://micronaut.io/index.html

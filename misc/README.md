@@ -4,6 +4,7 @@
 
 - https://devdocs.io/
 - https://devhints.io/
+- https://explainshell.com/
 
 ## Shields ##
 
@@ -23,10 +24,6 @@ https://github.com/elastic/elasticsearch/tree/5.6/modules/ingest-common/src/main
 ### Azure SQL ###
 
 https://blogs.msdn.microsoft.com/azuresqldbsupport/2017/01/13/lesson-learned-16-how-to-change-the-default-language-of-azure-sql-database/
-
-### deepstream server ###
-
-deepstream is a powerful websocket server that syncs realtime data
 
 ## Web ##
 

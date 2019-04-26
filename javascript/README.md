@@ -1,20 +1,19 @@
 # JavaScript #
 
-JavaScript Standard Style
+## JavaScript Standard Style ##
 https://standardjs.com/
 
-A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
+## Nano-Id ##
+
+_A tiny, secure, URL-friendly, unique string ID generator for JavaScript._
+
 https://zelark.github.io/nano-id-cc/
 
-Collections for JavaScript
-This package provides JavaScript implementations of common collections, with many useful features.
-http://www.collectionsjs.com/
+## Collections for JavaScript ##
 
-Immutable collections for JavaScript
-https://facebook.github.io/immutable-js/
+- CollectionsJs: This package provides JavaScript implementations of common collections, with many useful features (http://www.collectionsjs.com/).
 
-Deepscan - The best way to inspect JavaScript code.
-https://deepscan.io/home/
+- ImmutableJs: Immutable collections for JavaScript (https://facebook.github.io/immutable-js/)
 
 ## ORMs ##
 
