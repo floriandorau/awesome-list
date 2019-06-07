@@ -62,3 +62,8 @@ https://verdaccio.org/en/
 
 npm desktop manager
 https://720kb.github.io/ndm/
+
+## Zero Server ##
+
+Zero configuration web framework.
+https://zeroserver.io/
