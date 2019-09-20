@@ -19,6 +19,11 @@ https://zelark.github.io/nano-id-cc/
 
 - ImmutableJs: Immutable collections for JavaScript (https://facebook.github.io/immutable-js/)
 
+## Filesize ##
+
+JavaScript library to generate a human readable String describing the file size.
+<https://filesizejs.com/>
+
 ## ORMs ##
 
 Sequelize is a promise-based ORM for Node.js v4 and up.
