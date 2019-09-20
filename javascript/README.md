@@ -1,5 +1,9 @@
 # JavaScript #
 
+## Useful links ##
+
+<https://github.com/daumann/ECMAScript-new-features-list>
+
 ## JavaScript Standard Style ##
 https://standardjs.com/
 
@@ -57,10 +61,14 @@ The largest Node.JS best practices list
 Next-generation ES module bundler
 <https://rollupjs.org>
 
+## Verdaccio package repositories ##
+
 Verdaccio · A lightweight private npm proxy registry
 <https://verdaccio.org/en/>
 
-npm desktop manager
+## NPM desktop manager ##
+
+Manage npm from the couch.
 <https://720kb.github.io/ndm/>
 
 ## Zero Server ##
