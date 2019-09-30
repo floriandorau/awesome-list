@@ -11,3 +11,15 @@
 ## Terraform ##
 
 <https://learnk8s.io/blog/get-start-terraform-aks/>
+
+## CLI tools ##
+
+### kube-ps1 ###
+
+Kubernetes prompt info for bash and zsh
+<https://github.com/jonmosco/kube-ps1>
+
+### kubectx ###
+
+Switch faster between clusters and namespaces in kubectl.
+<https://github.com/ahmetb/kubectx>
