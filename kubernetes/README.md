@@ -14,12 +14,14 @@
 
 ## CLI tools ##
 
+Some useful CLI tools helping maintaining K8s.
+
 ### kube-ps1 ###
 
 Kubernetes prompt info for bash and zsh
 <https://github.com/jonmosco/kube-ps1>
 
-### kubectx ###
+### kubectx & kubens ###
 
 Switch faster between clusters and namespaces in kubectl.
 <https://github.com/ahmetb/kubectx>
