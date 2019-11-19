@@ -3,6 +3,7 @@
 ## Useful links ##
 
 <https://github.com/daumann/ECMAScript-new-features-list>
+
 <https://github.com/30-seconds/30-seconds-of-code>
 
 ## JavaScript Standard Style ##
