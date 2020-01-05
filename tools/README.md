@@ -14,3 +14,8 @@ The OWASP Zed Attack Proxy (ZAP). One of the world’s most popular free securit
 
 Fork - a fast and friendly git client
 <https://fork.dev/>
+
+## Hidden ##
+
+A ultra-light MacOS utility that helps hide menu bar icons
+<https://github.com/dwarvesf/hidden>
