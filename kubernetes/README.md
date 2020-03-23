@@ -8,6 +8,10 @@
 
 - Learn K8S: <https://learnk8s.io/blog/kubectl-productivity/>
 
+## Lens - The Kubernetes IDE ##
+
+<https://github.com/lensapp/lens/blob/master/README.md>
+
 ## Terraform ##
 
 <https://learnk8s.io/blog/get-start-terraform-aks/>
