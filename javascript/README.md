@@ -26,6 +26,10 @@ https://zelark.github.io/nano-id-cc/
 JavaScript library to generate a human readable String describing the file size.
 <https://filesizejs.com/>
 
+## ms ##
+Package to easily convert various time formats to milliseconds.
+<https://github.com/zeit/ms/>
+
 ## ORMs ##
 
 Sequelize is a promise-based ORM for Node.js v4 and up.
