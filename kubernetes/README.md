@@ -16,6 +16,12 @@
 
 <https://learnk8s.io/blog/get-start-terraform-aks/>
 
+## Kube-hunter ##
+
+An open-source tool that hunts for security weaknesses in your Kubernetes clusters
+
+<https://kube-hunter.aquasec.com/>
+
 ## CLI tools ##
 
 Some useful CLI tools helping maintaining K8s.
