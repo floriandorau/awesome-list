@@ -149,3 +149,7 @@ Open stuff like URLs, files, executables. Cross-platform.
 Find the root directory of a Node.js project or npm package
 <https://github.com/sindresorhus/pkg-dir>
 
+### norrmalize-url
+Normalize a URL
+<https://github.com/sindresorhus/normalize-url>
+
