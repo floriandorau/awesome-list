@@ -113,7 +113,35 @@ Manage npm from the couch.
 Zero configuration web framework.
 <https://zeroserver.io/>
 
-## CLI
+## CLI tools
 
-A full-featured framework for building command line applications (cli) with node.js
-<https://github.com/mattallty/Caporal.js/blob/master/README.md>
+List of some useful cli 
+
+### yargs
+Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
+<https://github.com/yargs/yargs>
+
+### public-ip
+Get your public IP address - very fast!
+<https://github.com/sindresorhus/public-ip>
+
+### is
+Type check values
+<https://github.com/sindresorhus/is>
+
+### is-reachable
+Check if servers are reachable
+<https://github.com/sindresorhus/is-reachable>
+
+### termsize 
+Reliably get the terminal window size
+<https://github.com/sindresorhus/term-size>
+
+### open
+Open stuff like URLs, files, executables. Cross-platform.
+<https://github.com/sindresorhus/open>
+
+### pkg-dir
+Find the root directory of a Node.js project or npm package
+<https://github.com/sindresorhus/pkg-dir>
+
