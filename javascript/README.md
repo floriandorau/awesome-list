@@ -121,6 +121,10 @@ List of some useful cli
 Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 <https://github.com/yargs/yargs>
 
+### cli-spinners
+Spinners for use in the terminal
+<https://github.com/sindresorhus/cli-spinners>
+
 ### public-ip
 Get your public IP address - very fast!
 <https://github.com/sindresorhus/public-ip>
