@@ -161,3 +161,14 @@ Normalize a URL
 Colored symbols for various log levels
 <https://github.com/sindresorhus/log-symbols>
 
+### clean-stack
+Clean up error stack traces
+<https://github.com/sindresorhus/clean-stack>
+
+### log-update
+Log by overwriting the previous output in the terminal
+<https://github.com/sindresorhus/log-update>
+
+### listr
+Terminal task list
+<https://github.com/SamVerschueren/listr>
