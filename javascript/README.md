@@ -125,6 +125,10 @@ Yargs helps you build interactive command line tools, by parsing arguments and g
 Spinners for use in the terminal
 <https://github.com/sindresorhus/cli-spinners>
 
+### ora
+Elegant terminal spinner
+<https://github.com/sindresorhus/ora>
+
 ### public-ip
 Get your public IP address - very fast!
 <https://github.com/sindresorhus/public-ip>
