@@ -4,6 +4,7 @@
 
 - https://howtodoinjava.com/
 - http://www.baeldung.com
+- https://www.baeldung.com/spring-5-webclient
 - https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#webtestclient
 
 ## Google Container Tools ##
