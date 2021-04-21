@@ -16,7 +16,13 @@
 
 <https://learnk8s.io/blog/get-start-terraform-aks/>
 
+Terraform version manager
+
 <https://github.com/tfutils/tfenv>
+
+Security scanner for your Terraform code
+
+<https://github.com/tfsec/tfsec>
 
 ## Kube-hunter ##
 
