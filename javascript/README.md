@@ -113,6 +113,14 @@ Manage npm from the couch.
 Zero configuration web framework.
 <https://zeroserver.io/>
 
+## Express
+
+### Helmet
+
+Helmet helps you secure your Express apps by setting various HTTP headers.
+
+<https://github.com/helmetjs/helmet>
+
 ## CLI tools
 
 List of some useful cli 
