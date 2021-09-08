@@ -1,15 +1,21 @@
-# API #
+# API
 
-## GraphQL ##
+## GraphQL
 
-### SPQR ###
+### SPQR
 
 _GraphQL SPQR (GraphQL Schema Publisher & Query Resolver, pronounced like speaker) is a simple-to-use library for rapid development of GraphQL APIs in Java._
 
 <https://github.com/leangen/graphql-spqr/blob/master/README.md>
 
-## GRPC ##
+### DGS framework
 
-Interesting articles regarding *GRPC*.
+_GraphQL for Java with Spring Boot made easy._
+
+<https://github.com/Netflix/dgs-framework>
+
+## GRPC
+
+Interesting articles regarding _GRPC_.
 
 - <https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/>
