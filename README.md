@@ -1,8 +1,8 @@
-# awesome-list #
+# awesome-list
 
-List of links/tools/news etc. which should kept in mind.
+List of links, tools, news etc. which might be helpful.
 
-## Overview ##
+## Overview
 
 - [API](api/README.md)
 - [Database](database/README.md)
@@ -10,12 +10,13 @@ List of links/tools/news etc. which should kept in mind.
 - [Git](git/README.md)
 - [Http](http/README.md)
 - [Java](java/README.md)
-- [Javascript](javascript/README.md)
+- [Javascript/Typescript](javascript/README.md)
+- [Kotlin](kotlin/README.md)
 - [Kubernetes](kubernetes/README.md)
 - [Misc](misc/README.md)
 - [Tools](tools/README.md)
 
-## Further awesome lists ##
+## Further awesome lists
 
 - <https://github.com/sorrycc/awesome-javascript>
 - <https://github.com/sindresorhus/awesome-nodejs>
