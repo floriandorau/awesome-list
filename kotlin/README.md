@@ -2,6 +2,6 @@
 
 ## Kotlin links
 
-Awesome Kotlin links and resources
+_Awesome Kotlin links and resources._
 
 <https://kotlin.link/>
