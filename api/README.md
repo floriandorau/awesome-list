@@ -19,3 +19,13 @@ _GraphQL for Java with Spring Boot made easy._
 Interesting articles regarding _GRPC_.
 
 - <https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/>
+
+## OpenAPI
+
+<https://www.openapis.org>
+
+## AsyncAPI
+
+Open source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.
+
+<https://www.asyncapi.com>
