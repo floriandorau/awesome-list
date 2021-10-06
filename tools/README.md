@@ -26,3 +26,8 @@ Fork - a fast and friendly git client
 
 A ultra-light MacOS utility that helps hide menu bar icons
 <https://github.com/dwarvesf/hidden>
+
+## plumber
+
+A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
+<https://github.com/batchcorp/plumber>
