@@ -17,6 +17,10 @@ The OWASP Zed Attack Proxy (ZAP). One of the world’s most popular free securit
 mitmproxy is a free and open source interactive HTTPS proxy.
 <https://mitmproxy.org/>
 
+### OAuth2 Proxy
+
+<https://github.com/oauth2-proxy/oauth2-proxy>
+
 ## Fork
 
 Fork - a fast and friendly git client
