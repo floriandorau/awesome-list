@@ -1,13 +1,5 @@
 # Kubernetes #
 
-## Kubeless.io ##
-
-<https://kubeless.io/>
-
-## Interesting links/articles regarding K8s ##
-
-- Learn K8S: <https://learnk8s.io/blog/kubectl-productivity/>
-
 ## Lens - The Kubernetes IDE ##
 
 <https://github.com/lensapp/lens/blob/master/README.md>
@@ -57,3 +49,7 @@ Kubernetes prompt info for bash and zsh
 
 Switch faster between clusters and namespaces in kubectl.
 <https://github.com/ahmetb/kubectx>
+
+## Interesting links/articles regarding K8s ##
+
+- Learn K8S: <https://learnk8s.io/blog/kubectl-productivity/>
