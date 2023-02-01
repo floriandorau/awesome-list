@@ -24,7 +24,9 @@ Security scanner for your Terraform code
 
 <https://github.com/tfsec/tfsec>
 
-## Kube-hunter ##
+## Security ## 
+
+### Kube-hunter ###
 
 An open-source tool that hunts for security weaknesses in your Kubernetes clusters
 
