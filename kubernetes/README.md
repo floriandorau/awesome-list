@@ -36,6 +36,12 @@ Checks whether Kubernetes is deployed according to security best practices as de
 
 <https://github.com/aquasecurity/kube-bench>
 
+### Trivy
+
+Trivy is the most popular open source security scanner, reliable, fast, and easy to use. Use Trivy to find vulnerabilities & IaC misconfigurations, SBOM discovery, Cloud scanning, Kubernetes security risks,and more.
+
+<https://trivy.dev/>
+
 ## CLI tools ##
 
 Some useful CLI tools helping maintaining K8s.
@@ -49,9 +55,3 @@ Kubernetes prompt info for bash and zsh
 
 Switch faster between clusters and namespaces in kubectl.
 <https://github.com/ahmetb/kubectx>
-
-### Trivy
-
-Trivy is the most popular open source security scanner, reliable, fast, and easy to use. Use Trivy to find vulnerabilities & IaC misconfigurations, SBOM discovery, Cloud scanning, Kubernetes security risks,and more.
-
-<https://trivy.dev/>
