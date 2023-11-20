@@ -19,6 +19,9 @@
 The largest Node.JS best practices list.
 <https://github.com/i0natan/nodebestpractices>
 
+Node security practices list.
+<https://github.com/lirantal/awesome-nodejs-security>
+
 ## Nano-Id
 
 _A tiny, secure, URL-friendly, unique string ID generator for JavaScript._
